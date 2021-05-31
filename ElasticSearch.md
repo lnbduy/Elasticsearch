@@ -27,3 +27,7 @@
     - Shard is a portion of index
     - Default 5 shard, 1 replica
     - Cluser -> Multi node. Each node -> Index (primary) -> Types -> Document
+# Setup
+ Website https://www.elastic.co/
+ ## Running ElasticSearch in the cloud
+ ## Install ElasticSearch locally
